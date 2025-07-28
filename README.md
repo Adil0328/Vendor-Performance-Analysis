@@ -1,5 +1,9 @@
 # 🛒 Vendor Performance Analysis
 
+## 🤝 Acknowledgements
+
+This project was created to demonstrate an end-to-end analysis process — from raw data ingestion to dashboarding — focusing on real business use cases in vendor management.
+
 📌 **Project Overview**
 
 Effective inventory and sales management are crucial in the retail and wholesale industry to ensure profitability and reduce operational inefficiencies. This project focuses on analyzing vendor performance to support better decision-making around pricing, purchasing, and inventory turnover.
@@ -30,11 +34,6 @@ The main objectives of this analysis are to:
 - Identified top-performing vendors driving consistent margins  
 - Uncovered how bulk purchases affect per-unit cost trends  
 - Analyzed stock turnover to highlight slow-moving inventory
-
-
-## 🤝 Acknowledgements
-
-This project was created to demonstrate an end-to-end analysis process — from raw data ingestion to dashboarding — focusing on real business use cases in vendor management.
 
 
 ## 🔗 Connect With Me
